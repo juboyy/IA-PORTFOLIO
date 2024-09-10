@@ -8,9 +8,9 @@ with left_column:
     st.title("Sobre mim")
     st.markdown(
         "<div style='text-align: justify'>"
-        "Olá! Sou o João Rafael, entusiasta em tecnologia, blockchain e IA. Com um extenso histórico em TI, adoro enfrentar desafios e descobrir soluções inovadoras."
+        "Olá! Sou o João Rafael, entusiasta em tecnologia e IA. Com um extenso histórico em TI, adoro enfrentar desafios e descobrir soluções inovadoras."
         "<br>"
-        "Amo trabalhar em equipe e sempre me diverti com a comunidade e clubes de desenvolvedores. Manter a calma sob pressão e prestar atenção aos pequenos detalhes me ajuda a entregar resultados de qualidade sempre."
+        "Amo trabalhar em equipe e sempre me diverti com projetos internacionais em diversos nichos e operações. Manter a calma sob pressão e prestar atenção aos pequenos detalhes me ajuda a entregar resultados de qualidade sempre."
         "<br>"
         "Tecnologia e IA são minhas paixões, e estou constantemente explorando maneiras de aprimorar operações tecnológicas e soluções inteligentes de IA. 🕵️‍♂️ Meu objetivo é contribuir para o desenvolvimento de tecnologias seguras e inovadoras que façam a diferença."
         "<br>"
