@@ -1,0 +1,1 @@
+Speky é uma IA portfolio
