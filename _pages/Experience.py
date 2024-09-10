@@ -5,12 +5,12 @@ sample_markdown = r"""
 Breve visão geral da minha experiência até o momento.
 ---
 
-## Ninecon
-`Oracle Cloud Technical Consultant`
+## Oracle (Brazil)
+`Sr. Oracle Cloud Developer`
 </br>
-`Jan 2022 - Presente`
+`Jan 2015 - Dec 2021`
 <div style='text-align: justify'><b>
-<li>Atuo como consultor especializado em soluções Oracle Cloud, com foco em integração, automação e suporte a clientes globais de diferentes setores.</li><br>
+<li>Liderança técnica em projetos de desenvolvimento de aplicativos móveis utilizando VBCS, com foco em segurança, migração e arquitetura em nuvem. Desenvolvi soluções de transporte para o Oracle Transportation Management (OTM), integrando módulos de gestão de transporte, pedidos e sourcing.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -18,16 +18,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-OIC, VBCS, BIP, Fusion, OCI, SLA, BI Publisher, PL/SQL, ALM, Metodologias Agile, ERP, HCM, CRM
+OCI, VBCS, OIC, OTBI, SSO, MFA, IAM, Figma, Redwood Apps, Time and Labor, OTM, DevOps, VBS, Git, CI/CD
 </div>
 ---
 
-## Oracle
-`Sr. Cloud Application Specialist | Architect`
+## Oracle (Brazil)
+`Sr. Oracle Cloud Specialist Developer`
 </br>
-`Jan-Maio 2024`
+`Jan 2022 - Present`
 <div style='text-align: justify'><b>
-<li>Liderança técnica em projetos de desenvolvimento de aplicativos móveis utilizando VBCS, com foco em segurança, migração e arquitetura em nuvem.</li><br>
+<li>Atuo como consultor especializado em soluções Oracle Cloud, com foco em integração, automação e suporte a clientes globais de diferentes setores. Desenvolvi soluções móveis para HCM e arquiteturas de segurança, incluindo SSO e MFA.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -35,33 +35,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-VBCS, SSO, MFA, Javascript, OCI, IDCS, PaaS, SaaS, SOA, REST API, Visual Builder Cloud Service
+OIC, VBCS, BIP, Fusion, OCI, SSO, MFA, IAM, PL/SQL, OTBI, Redwood Apps, Time and Labor, OTM, CI/CD, Git, DevOps
 </div>
 ---
 
-## Deloitte
-`Sr. Cloud Technical Consultant | Application Specialist`
-</br>
-`Ago 2023 - Mar 2024`
-<div style='text-align: justify'><b>
-<li>Consultoria técnica em projetos de integração de sistemas utilizando tecnologias Oracle Cloud, com foco em automação, suporte e entrega de soluções robustas.</li><br>
-</b>
-</div>
-Tecnologias Utilizadas
---
-<b>Tecnologias Utilizadas</b><br>
-<!-- .slide: data-background-color="#283747" -->
-<div style='text-align: justify'>
-sFTP, API, SOAP, EssJobs, FBDI, OCI, REST API, SOA, ERP, HCM, CRM
-</div>
----
-
-## FedEx
+## Oracle (Brazil)
 `Sr. Oracle Cloud Engineer | Integration Specialist`
 </br>
-`Ago 2023 - Mar 2024`
+`Jul 2021 - Present`
 <div style='text-align: justify'><b>
-<li>Engenheiro de integração especializado em Oracle Cloud, atuando em projetos de automação, suporte e implementação de sistemas ERP.</li><br>
+<li>Engenheiro de integração especializado em Oracle Cloud, automatizando processos de ERP globais, com foco em alta performance e confiabilidade nas operações internacionais.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -69,14 +52,14 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-sFTP, API, SOAP, EssJobs, FBDI
+sFTP, API, SOAP, EssJobs, FBDI, OIC, EDM, MFT, ERP, BI, PO, AP
 </div>
 ---
 
-## Núclea
+## Oracle (Brazil)
 `Sr. Oracle Cloud Engineer | Integration Specialist`
 </br>
-`Dez 2023 - Fev 2024`
+`Mar 2023 - Jun 2023`
 <div style='text-align: justify'><b>
 <li>Consultoria técnica em projetos de integração e automação utilizando Oracle Cloud, com foco em soluções de infraestrutura crítica para o setor bancário.</li><br>
 </b>
@@ -86,16 +69,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-UCM, EssJobs, FBDI, Oracle Cloud
+OIC, EDM, Oracle Fusion SaaS, Subscription Management, Budgetary Control, BI
 </div>
 ---
 
-## NTT DATA
+## Oracle (Japan)
 `Sr. Oracle Technical Consultant | Application Specialist`
 </br>
-`Jan 2023 - Jan 2024`
+`Nov 2020 - Jun 2021`
 <div style='text-align: justify'><b>
-<li>Consultor técnico em projetos de desenvolvimento e integração de sistemas Oracle, com foco em VBCS, automação e suporte a clientes internacionais.</li><br>
+<li>Consultor técnico em projetos de desenvolvimento e integração de sistemas Oracle, com foco em VBCS, automação e suporte a clientes internacionais, incluindo módulos financeiros como AP e GL.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -103,16 +86,16 @@ Tecnologias Utilizadas
 <b>Tecnologias Utilizadas</b><br>
 <!-- .slide: data-background-color="#283747" -->
 <div style='text-align: justify'>
-VBCS, API, SOAP, EssJobs, FBDI, ALM, VBS, Javascript, UX/UI
+VBCS, API, SOAP, EssJobs, FBDI, ALM, VBS, Javascript, ERP, BI
 </div>
 ---
 
-## Ocyan
+## Oracle (Brazil)
 `Sr. Oracle Cloud Consultant | Application Specialist`
 </br>
-`Jan 2023 - Dez 2023`
+`Jun 2022 - Present`
 <div style='text-align: justify'><b>
-<li>Consultoria especializada em Oracle Cloud, atuando no desenvolvimento, integração e suporte de sistemas, com foco em VBCS, automação e metodologias ágeis.</li><br>
+<li>Consultoria especializada em Oracle Cloud, atuando no desenvolvimento, integração e suporte de sistemas, com foco em VBCS, automação e metodologias ágeis. Desenvolvi um sistema de interação por QR Code para gestão de contêineres.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -122,59 +105,8 @@ Tecnologias Utilizadas
 <div style='text-align: justify'>
 VBCS, API, SOAP, EssJobs, FBDI, PL/SQL, BI Publisher, sFTP, GMUD
 </div>
----
-
-## Odontoprev
-`Oracle Cloud Migration Developer`
-</br>
-`Jan 2022 - Jan 2023`
-<div style='text-align: justify'><b>
-<li>Desenvolvedor especializado em migração de sistemas para Oracle Cloud, com foco em VBCS e integrações, garantindo a melhor experiência para o usuário.</li><br>
-</b>
-</div>
-Tecnologias Utilizadas
---
-<b>Tecnologias Utilizadas</b><br>
-<!-- .slide: data-background-color="#283747" -->
-<div style='text-align: justify'>
-VBCS, API, SOAP, Javascript, Node.js
-</div>
----
-
-## MGSOARES Prog.
-`Oracle Financial Consultant`
-</br>
-`Jan 2021 - Ago 2021`
-<div style='text-align: justify'><b>
-<li>Consultoria em soluções financeiras Oracle, atuando no suporte a processos de configuração, pagamento, relatórios e análise contábil.</li><br>
-</b>
-</div>
-Tecnologias Utilizadas
---
-<b>Tecnologias Utilizadas</b><br>
-<!-- .slide: data-background-color="#283747" -->
-<div style='text-align: justify'>
-Oracle Account Payables Cloud, Oracle Expenses Cloud
-</div>
----
-
-## Receita Federal
-`Especialista em Suporte de TI`
-</br>
-`Jan 2020 - Fev 2021`
-<div style='text-align: justify'><b>
-<li>Suporte técnico em ambiente de TI, com foco em hardware, redes e atendimento ao usuário.</li><br>
-</b>
-</div>
-Tecnologias Utilizadas
---
-<b>Tecnologias Utilizadas</b><br>
-<!-- .slide: data-background-color="#283747" -->
-<div style='text-align: justify'>
-Suporte de Hardware, Redes de Computadores, Redes LAN-WAN
-</div>
-
 """
+
 st.title("Experiências")
 currState = rs.slides(
     sample_markdown,
