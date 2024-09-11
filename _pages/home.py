@@ -94,7 +94,7 @@ User: What are some of João's achievements?
 
 Speky: João won the Dell Hackathon 2022 and Cybersecurity Hackathon 2021. He excelled in CTF competitions like Hope 2022 and Tempus 2022. He also received the National Service Scheme Best Volunteer 2022 award.
 """
-general_prompt = ["Quem é João?", "Quais são as skills do João?", "Quais são os projetos do João?", "Quais as conquistas do João?", "Quais as certificações do João?", "Como entro em contato com o João?", "Quais os nichos de experiência do João?", "Que tipo de vagas técnicas o João se interessa?", "Quais os posts no blog do João?"]
+general_prompt = ["Quem é João?", "Quais são as skills do João?", "Quais são os projetos do João?", "Quais as conquistas do João?", "Quais as certificações do João?", "Como entro em contato com o João?", "Quais os nichos de experiência do João?", "Que tipo de vagas técnicas o João se interessa?"]
 
 def configure_genai():
     """Configure the generative AI model."""
