@@ -152,7 +152,7 @@ if "pill_selected" not in st.session_state:
 
 # Initial greeting
 if not st.session_state.messages:
-    initial_greeting = "Saudações, humano! 👋 Sou o Speky, uma IA treinada para responder perguntas sobre o João. Curioso sobre seus projetos, skills ou algo mais? Faça uma pergunta!😉"
+    initial_greeting = "Saudações, humano! 👋 Sou o Speky, uma IA treinada para que o João não precise mais pensar (e responder) sobre sua trajetória. Curioso sobre seus projetos, skills ou algo mais? Converse comigo!😉"
     st.session_state.messages.append({"role": "assistant", "content": initial_greeting})
 display_messages()
 
