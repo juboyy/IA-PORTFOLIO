@@ -10,12 +10,10 @@ Breve visão geral da minha experiência até o momento.
 </br>
 `Jan 2022 - Presente`
 <div style='text-align: justify'><b>
-<li>Atuo como consultor especializado em soluções Oracle Cloud, focando em integração, automação e suporte a clientes globais de diferentes setores.</li><br>
-<li>Liderança no desenvolvimento de aplicações móveis para HCM, com foco em módulos-chave como Time and Labor.</li><br>
-<li>Arquitetura de soluções em nuvem utilizando Oracle Cloud Infrastructure (OCI), implementando protocolos avançados de segurança como Single Sign-On (SSO), Multi-Factor Authentication (MFA), Identity and Access Management (IAM), OAuth e SAML.</li><br>
-<li>Desenvolvimento de uma nova solução web de transporte brasileira para o produto Oracle Transportation Management (OTM), aprimorando módulos como Gestão de Remessas, Gestão de Pedidos, Sourcing de Transporte e Gestão de Frotas com Motor de Impostos.</li><br>
+<li>Consultor especializado em soluções Oracle Cloud, focando em integração, automação e suporte a clientes globais de diferentes setores.</li><br>
+<li>Desenvolvimento de uma solução web de transporte brasileira para o produto Oracle Transportation (OTM), em módulos como Gestão de Remessas, Gestão de Pedidos, Sourcing de Transporte e Gestão de Frotas com Motor de Impostos.</li><br>
 <li>Utilização do Visual Builder Cloud Service (VBCS) e PL/SQL para desenvolvimento de aplicações e gestão de banco de dados.</li><br>
-<li>Criação de relatórios utilizando Oracle Transactional Business Intelligence (OTBI) e design de interfaces de usuário com Figma para aplicativos Redwood.</li><br>
+<li>Design de interfaces de usuário com Figma para aplicativos Redwood.</li><br>
 </b>
 </div>
 Tecnologias Utilizadas
@@ -33,7 +31,7 @@ Oracle Cloud Infrastructure (OCI), Visual Builder Cloud Service (VBCS), PL/SQL, 
 `Jan 2022 - May 2023`
 <div style='text-align: justify'><b>
 <li>Liderança técnica em projetos de desenvolvimento de aplicativos móveis utilizando VBCS, com foco em segurança, migração e arquitetura em nuvem.</li><br>
-<li>Implementação de protocolos avançados de segurança como SSO, MFA, IAM, OAuth e SAML.</li><br>
+<li>Arquitetura de soluções em nuvem utilizando Oracle Cloud Infrastructure (OCI), implementando protocolos avançados de segurança como Single Sign-On (SSO), Multi-Factor Authentication (MFA), Identity and Access Management (IAM), OAuth e SAML.</li><br>
 <li>Desenvolvimento de soluções PaaS e SaaS integradas, aprimorando a eficiência operacional.</li><br>
 <li>Criação de APIs REST e integração com serviços SOA.</li><br>
 </b>
